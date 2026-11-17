@@ -1,1 +1,1 @@
-XEQM WALLET
+XEQM WALLET  session router
